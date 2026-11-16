@@ -1,0 +1,6 @@
+{
+  "name": "O Caderno Vivo · ACT Arte",
+  "description": "Jogo mobile de estudo por repetição espaçada para o ACT Professor de Arte (Itapoá/SC), treinando os sete mecanismos de erro do Caderno.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
